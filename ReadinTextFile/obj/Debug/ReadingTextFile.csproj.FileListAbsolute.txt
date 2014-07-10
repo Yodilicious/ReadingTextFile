@@ -1,0 +1,5 @@
+c:\users\jodi\documents\visual studio 2013\Projects\ReadinTextFile\ReadinTextFile\bin\Debug\ReadinTextFile.exe.config
+c:\users\jodi\documents\visual studio 2013\Projects\ReadinTextFile\ReadinTextFile\bin\Debug\ReadinTextFile.exe
+c:\users\jodi\documents\visual studio 2013\Projects\ReadinTextFile\ReadinTextFile\bin\Debug\ReadinTextFile.pdb
+c:\users\jodi\documents\visual studio 2013\Projects\ReadinTextFile\ReadinTextFile\obj\Debug\ReadinTextFile.exe
+c:\users\jodi\documents\visual studio 2013\Projects\ReadinTextFile\ReadinTextFile\obj\Debug\ReadinTextFile.pdb

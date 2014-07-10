@@ -1,0 +1,14 @@
+315-72-2482,Ronald Brown,CS1025,Assignment 1,11
+315-72-2482,Ronald Brown,CS1025,Assignment 2,12
+315-72-2482,Ronald Brown,CS1025,Midterm,37
+315-72-2482,Ronald Brown,CS1025,Final,40
+315-72-2482,Ronald Brown,CS1027,Assignment 1,12
+315-72-2482,Ronald Brown,CS1027,Midterm,32
+315-72-2482,Ronald Brown,CS1027,Final,40
+688-09-2197,Scott Novak,CLAS1064,Essay,11
+688-09-2197,Scott Novak,CLAS1064,Midterm,18
+688-09-2197,Scott Novak,CLAS1064,Final,41
+688-09-2197,Scott Novak,ENG2225,Essay 1,14
+688-09-2197,Scott Novak,ENG2227,Essay 2,16
+688-09-2197,Scott Novak,ENG2227,Midterm,14
+688-09-2197,Scott Novak,ENG2227,Final,36
